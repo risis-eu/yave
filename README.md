@@ -2,6 +2,8 @@
 # YAVE
 Yet Another VoID Editor
 
+Check the demo at http://datasets.risis.eu
+
 ## Quick Start
 
 ###Installation
